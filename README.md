@@ -5,9 +5,9 @@ The aim of this project is to develop a console application using the C++ progra
 ## Structure
 ### The theater includes the following objects and characterstics:
 - Performance (code, title, director, actors, description, date, time, length, ticket price, number of tickets);
-- Director (name, surname, );
-- Actors ();
+- Director (name, surname, performances);
+- Actor (name, surname, performances);
 ## Tasks
 1. Create
 2. ...
-3. Create a report to analyse the completed work and
+3. Create a report to analyse the completed work and make conclusions about 
